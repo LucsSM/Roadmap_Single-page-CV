@@ -1,0 +1,33 @@
+body {
+    font-family: Montserrat;
+    border: 3px solid black;
+    padding: 3rem;
+}
+
+hr {
+    width: 75%;
+    margin: 0 0 20px 0;
+    border: 2px solid black;
+}
+
+h2 {
+    color: rgb(112, 230, 22);
+}
+
+h3 {
+    color: rgb(15, 52, 221);
+}
+
+.duration {
+    font-weight: bold;
+}
+
+p {
+    max-width: 70%;
+    text-align: justify;
+}
+
+a:hover {
+    font-weight: bold;
+    font-size: large;
+}
